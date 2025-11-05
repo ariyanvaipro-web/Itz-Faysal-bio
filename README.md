@@ -655,7 +655,7 @@
 
 <section class="home" id="home">
     <div class="home-content">
-        <h3>Hi, It's Me <span>Faysal </span><BD Hacker>
+        <h3>Hi, It's Me <span>Faysal </span></h1>
         <h3 class="text-animation">I'm a <span></span></h3>
         <p>I am a skilled Hacker App Developer, Ha, and Web Developer with a passion for 
             creating innovative and user-friendly digital solutions. With expertise in mobile 
