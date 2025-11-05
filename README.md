@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -257,7 +257,7 @@
         }
     }
     @keyframes words {
-        0%, 16.66% { content: "Backend Designer"; }
+        0%, 16.66% { content: "BD Hacker"; }
         16.67%, 33.33% { content: "Web Designer"; }
         33.34%, 50% { content: "UI/UX Designer"; }
         50.01%, 66.66% { content: "Web Developer"; }
@@ -739,9 +739,9 @@
     </form>
     <div class="social-icons" style="text-align: center; margin-top: 3rem;">
 
-        <a href="https://chat.whatsapp.com/J7ABarDMoEyJJrcRrh6SaW?mode=ems_copy_t" target="_blank"><i class='bx bxl-whatsapp'></i></a>
-        <a href="https://t.me/RHS_TEAM" target="_blank"><i class='bx bxl-telegram'></i></a>
-        <a href="https://youtube.com/@redoyan_hasan_siyam?si=JbnFdvf7S07a_NIg" target="_blank"><i class='bx bxl-youtube'></i></a>
+        <a href="ttps://wa.me/01648289823" target="_blank"><i class='bx bxl-whatsapp'></i></a>
+        <a href="https://t.me/ariyan_Cyber_Zone" target="_blank"><i class='bx bxl-telegram'></i></a>
+        <a href="https://www.youtube.com/@DreamStory-n7ef" target="_blank"><i class='bx bxl-youtube'></i></a>
     </div>
     <div class="modal" id="message-modal">
         <div class="modal-content">
